@@ -1,0 +1,1436 @@
+data = [[
+    {
+      "date": 2014,
+      "state": "California",
+      "n_killed": 1320,
+      "n_injured": 1607,
+      "rank": 1
+    },
+    {
+      "date": 2014,
+      "state": "Texas",
+      "n_killed": 1094,
+      "n_injured": 1157,
+      "rank": 2
+    },
+    {
+      "date": 2014,
+      "state": "Florida",
+      "n_killed": 873,
+      "n_injured": 1463,
+      "rank": 3
+    },
+    {
+      "date": 2014,
+      "state": "Illinois",
+      "n_killed": 637,
+      "n_injured": 2276,
+      "rank": 4
+    },
+    {
+      "date": 2014,
+      "state": "Pennsylvania",
+      "n_killed": 547,
+      "n_injured": 1288,
+      "rank": 5
+    },
+    {
+      "date": 2014,
+      "state": "Georgia",
+      "n_killed": 522,
+      "n_injured": 817,
+      "rank": 6
+    },
+    {
+      "date": 2014,
+      "state": "Ohio",
+      "n_killed": 494,
+      "n_injured": 1120,
+      "rank": 7
+    },
+    {
+      "date": 2014,
+      "state": "North Carolina",
+      "n_killed": 487,
+      "n_injured": 884,
+      "rank": 8
+    },
+    {
+      "date": 2014,
+      "state": "Louisiana",
+      "n_killed": 465,
+      "n_injured": 921,
+      "rank": 9
+    },
+    {
+      "date": 2014,
+      "state": "New York",
+      "n_killed": 397,
+      "n_injured": 965,
+      "rank": 10
+    },
+    {
+      "date": 2014,
+      "state": "Missouri",
+      "n_killed": 383,
+      "n_injured": 647,
+      "rank": 11
+    },
+    {
+      "date": 2014,
+      "state": "Tennessee",
+      "n_killed": 352,
+      "n_injured": 857,
+      "rank": 12
+    },
+    {
+      "date": 2014,
+      "state": "Michigan",
+      "n_killed": 348,
+      "n_injured": 629,
+      "rank": 13
+    },
+    {
+      "date": 2014,
+      "state": "South Carolina",
+      "n_killed": 344,
+      "n_injured": 626,
+      "rank": 14
+    },
+    {
+      "date": 2014,
+      "state": "Indiana",
+      "n_killed": 330,
+      "n_injured": 600,
+      "rank": 15
+    },
+    {
+      "date": 2014,
+      "state": "Alabama",
+      "n_killed": 325,
+      "n_injured": 591,
+      "rank": 16
+    },
+    {
+      "date": 2014,
+      "state": "Maryland",
+      "n_killed": 294,
+      "n_injured": 602,
+      "rank": 17
+    },
+    {
+      "date": 2014,
+      "state": "Virginia",
+      "n_killed": 284,
+      "n_injured": 578,
+      "rank": 18
+    },
+    {
+      "date": 2014,
+      "state": "New Jersey",
+      "n_killed": 278,
+      "n_injured": 628,
+      "rank": 19
+    },
+    {
+      "date": 2014,
+      "state": "Mississippi",
+      "n_killed": 231,
+      "n_injured": 317,
+      "rank": 20
+    },
+    {
+      "date": 2014,
+      "state": "Arizona",
+      "n_killed": 220,
+      "n_injured": 222,
+      "rank": 21
+    },
+    {
+      "date": 2014,
+      "state": "Kentucky",
+      "n_killed": 194,
+      "n_injured": 318,
+      "rank": 22
+    },
+    {
+      "date": 2014,
+      "state": "Washington",
+      "n_killed": 181,
+      "n_injured": 236,
+      "rank": 23
+    },
+    {
+      "date": 2014,
+      "state": "Oklahoma",
+      "n_killed": 171,
+      "n_injured": 238,
+      "rank": 24
+    },
+    {
+      "date": 2014,
+      "state": "Arkansas",
+      "n_killed": 169,
+      "n_injured": 231,
+      "rank": 25
+    },
+    {
+      "date": 2014,
+      "state": "Wisconsin",
+      "n_killed": 163,
+      "n_injured": 461,
+      "rank": 26
+    },
+    {
+      "date": 2014,
+      "state": "Nevada",
+      "n_killed": 150,
+      "n_injured": 153,
+      "rank": 27
+    },
+    {
+      "date": 2014,
+      "state": "Colorado",
+      "n_killed": 149,
+      "n_injured": 164,
+      "rank": 28
+    },
+    {
+      "date": 2014,
+      "state": "Massachusetts",
+      "n_killed": 101,
+      "n_injured": 315,
+      "rank": 29
+    },
+    {
+      "date": 2014,
+      "state": "Oregon",
+      "n_killed": 96,
+      "n_injured": 126,
+      "rank": 30
+    },
+    {
+      "date": 2014,
+      "state": "Kansas",
+      "n_killed": 94,
+      "n_injured": 158,
+      "rank": 31
+    },
+    {
+      "date": 2014,
+      "state": "Washington DC",
+      "n_killed": 92,
+      "n_injured": 298,
+      "rank": 32
+    },
+    {
+      "date": 2014,
+      "state": "New Mexico",
+      "n_killed": 90,
+      "n_injured": 82,
+      "rank": 33
+    },
+    {
+      "date": 2014,
+      "state": "Minnesota",
+      "n_killed": 86,
+      "n_injured": 193,
+      "rank": 34
+    },
+    {
+      "date": 2014,
+      "state": "Connecticut",
+      "n_killed": 75,
+      "n_injured": 206,
+      "rank": 35
+    },
+    {
+      "date": 2014,
+      "state": "West Virginia",
+      "n_killed": 70,
+      "n_injured": 119,
+      "rank": 36
+    },
+    {
+      "date": 2014,
+      "state": "Iowa",
+      "n_killed": 62,
+      "n_injured": 169,
+      "rank": 37
+    },
+    {
+      "date": 2014,
+      "state": "Utah",
+      "n_killed": 62,
+      "n_injured": 69,
+      "rank": 38
+    },
+    {
+      "date": 2014,
+      "state": "Nebraska",
+      "n_killed": 51,
+      "n_injured": 148,
+      "rank": 39
+    },
+    {
+      "date": 2014,
+      "state": "Delaware",
+      "n_killed": 50,
+      "n_injured": 181,
+      "rank": 40
+    },
+    {
+      "date": 2014,
+      "state": "Montana",
+      "n_killed": 32,
+      "n_injured": 30,
+      "rank": 41
+    },
+    {
+      "date": 2014,
+      "state": "Idaho",
+      "n_killed": 31,
+      "n_injured": 26,
+      "rank": 42
+    },
+    {
+      "date": 2014,
+      "state": "Alaska",
+      "n_killed": 29,
+      "n_injured": 49,
+      "rank": 43
+    },
+    {
+      "date": 2014,
+      "state": "New Hampshire",
+      "n_killed": 22,
+      "n_injured": 38,
+      "rank": 44
+    },
+    {
+      "date": 2014,
+      "state": "Maine",
+      "n_killed": 22,
+      "n_injured": 25,
+      "rank": 45
+    },
+    {
+      "date": 2014,
+      "state": "Rhode Island",
+      "n_killed": 18,
+      "n_injured": 76,
+      "rank": 46
+    },
+    {
+      "date": 2014,
+      "state": "Vermont",
+      "n_killed": 18,
+      "n_injured": 29,
+      "rank": 47
+    },
+    {
+      "date": 2014,
+      "state": "South Dakota",
+      "n_killed": 16,
+      "n_injured": 20,
+      "rank": 48
+    },
+    {
+      "date": 2014,
+      "state": "Wyoming",
+      "n_killed": 15,
+      "n_injured": 12,
+      "rank": 49
+    },
+    {
+      "date": 2014,
+      "state": "North Dakota",
+      "n_killed": 15,
+      "n_injured": 24,
+      "rank": 50
+    },
+    {
+      "date": 2014,
+      "state": "Hawaii",
+      "n_killed": 8,
+      "n_injured": 13,
+      "rank": 51
+    }
+],
+[
+    {
+      "date": 2015,
+      "state": "California",
+      "n_killed": 1204,
+      "n_injured": 1617,
+      "rank": 1
+    },
+    {
+      "date": 2015,
+      "state": "Texas",
+      "n_killed": 1136,
+      "n_injured": 1355,
+      "rank": 2
+    },
+    {
+      "date": 2015,
+      "state": "Florida",
+      "n_killed": 796,
+      "n_injured": 1547,
+      "rank": 3
+    },
+    {
+      "date": 2015,
+      "state": "Illinois",
+      "n_killed": 688,
+      "n_injured": 2822,
+      "rank": 4
+    },
+    {
+      "date": 2015,
+      "state": "Georgia",
+      "n_killed": 595,
+      "n_injured": 1096,
+      "rank": 5
+    },
+    {
+      "date": 2015,
+      "state": "Ohio",
+      "n_killed": 537,
+      "n_injured": 1304,
+      "rank": 6
+    },
+    {
+      "date": 2015,
+      "state": "Pennsylvania",
+      "n_killed": 508,
+      "n_injured": 1064,
+      "rank": 7
+    },
+    {
+      "date": 2015,
+      "state": "Louisiana",
+      "n_killed": 501,
+      "n_injured": 898,
+      "rank": 8
+    },
+    {
+      "date": 2015,
+      "state": "North Carolina",
+      "n_killed": 493,
+      "n_injured": 1096,
+      "rank": 9
+    },
+    {
+      "date": 2015,
+      "state": "Missouri",
+      "n_killed": 492,
+      "n_injured": 921,
+      "rank": 10
+    },
+    {
+      "date": 2015,
+      "state": "New York",
+      "n_killed": 463,
+      "n_injured": 1521,
+      "rank": 11
+    },
+    {
+      "date": 2015,
+      "state": "Maryland",
+      "n_killed": 404,
+      "n_injured": 783,
+      "rank": 12
+    },
+    {
+      "date": 2015,
+      "state": "Tennessee",
+      "n_killed": 395,
+      "n_injured": 1021,
+      "rank": 13
+    },
+    {
+      "date": 2015,
+      "state": "Alabama",
+      "n_killed": 385,
+      "n_injured": 562,
+      "rank": 14
+    },
+    {
+      "date": 2015,
+      "state": "South Carolina",
+      "n_killed": 384,
+      "n_injured": 737,
+      "rank": 15
+    },
+    {
+      "date": 2015,
+      "state": "Michigan",
+      "n_killed": 355,
+      "n_injured": 640,
+      "rank": 16
+    },
+    {
+      "date": 2015,
+      "state": "Indiana",
+      "n_killed": 346,
+      "n_injured": 703,
+      "rank": 17
+    },
+    {
+      "date": 2015,
+      "state": "Virginia",
+      "n_killed": 317,
+      "n_injured": 782,
+      "rank": 18
+    },
+    {
+      "date": 2015,
+      "state": "New Jersey",
+      "n_killed": 249,
+      "n_injured": 491,
+      "rank": 19
+    },
+    {
+      "date": 2015,
+      "state": "Kentucky",
+      "n_killed": 230,
+      "n_injured": 425,
+      "rank": 20
+    },
+    {
+      "date": 2015,
+      "state": "Mississippi",
+      "n_killed": 223,
+      "n_injured": 334,
+      "rank": 21
+    },
+    {
+      "date": 2015,
+      "state": "Wisconsin",
+      "n_killed": 222,
+      "n_injured": 565,
+      "rank": 22
+    },
+    {
+      "date": 2015,
+      "state": "Oklahoma",
+      "n_killed": 220,
+      "n_injured": 410,
+      "rank": 23
+    },
+    {
+      "date": 2015,
+      "state": "Arizona",
+      "n_killed": 215,
+      "n_injured": 193,
+      "rank": 24
+    },
+    {
+      "date": 2015,
+      "state": "Washington",
+      "n_killed": 197,
+      "n_injured": 303,
+      "rank": 25
+    },
+    {
+      "date": 2015,
+      "state": "Nevada",
+      "n_killed": 183,
+      "n_injured": 234,
+      "rank": 26
+    },
+    {
+      "date": 2015,
+      "state": "Colorado",
+      "n_killed": 176,
+      "n_injured": 282,
+      "rank": 27
+    },
+    {
+      "date": 2015,
+      "state": "Arkansas",
+      "n_killed": 155,
+      "n_injured": 245,
+      "rank": 28
+    },
+    {
+      "date": 2015,
+      "state": "Kansas",
+      "n_killed": 127,
+      "n_injured": 190,
+      "rank": 29
+    },
+    {
+      "date": 2015,
+      "state": "Oregon",
+      "n_killed": 125,
+      "n_injured": 191,
+      "rank": 30
+    },
+    {
+      "date": 2015,
+      "state": "Washington DC",
+      "n_killed": 124,
+      "n_injured": 345,
+      "rank": 31
+    },
+    {
+      "date": 2015,
+      "state": "Minnesota",
+      "n_killed": 123,
+      "n_injured": 155,
+      "rank": 32
+    },
+    {
+      "date": 2015,
+      "state": "New Mexico",
+      "n_killed": 116,
+      "n_injured": 159,
+      "rank": 33
+    },
+    {
+      "date": 2015,
+      "state": "Massachusetts",
+      "n_killed": 109,
+      "n_injured": 382,
+      "rank": 34
+    },
+    {
+      "date": 2015,
+      "state": "Connecticut",
+      "n_killed": 90,
+      "n_injured": 331,
+      "rank": 35
+    },
+    {
+      "date": 2015,
+      "state": "Alaska",
+      "n_killed": 70,
+      "n_injured": 84,
+      "rank": 36
+    },
+    {
+      "date": 2015,
+      "state": "Utah",
+      "n_killed": 66,
+      "n_injured": 103,
+      "rank": 37
+    },
+    {
+      "date": 2015,
+      "state": "Iowa",
+      "n_killed": 60,
+      "n_injured": 193,
+      "rank": 38
+    },
+    {
+      "date": 2015,
+      "state": "Nebraska",
+      "n_killed": 59,
+      "n_injured": 177,
+      "rank": 39
+    },
+    {
+      "date": 2015,
+      "state": "Delaware",
+      "n_killed": 58,
+      "n_injured": 206,
+      "rank": 40
+    },
+    {
+      "date": 2015,
+      "state": "West Virginia",
+      "n_killed": 58,
+      "n_injured": 159,
+      "rank": 41
+    },
+    {
+      "date": 2015,
+      "state": "Idaho",
+      "n_killed": 40,
+      "n_injured": 36,
+      "rank": 42
+    },
+    {
+      "date": 2015,
+      "state": "Montana",
+      "n_killed": 34,
+      "n_injured": 38,
+      "rank": 43
+    },
+    {
+      "date": 2015,
+      "state": "Maine",
+      "n_killed": 31,
+      "n_injured": 31,
+      "rank": 44
+    },
+    {
+      "date": 2015,
+      "state": "South Dakota",
+      "n_killed": 25,
+      "n_injured": 28,
+      "rank": 45
+    },
+    {
+      "date": 2015,
+      "state": "New Hampshire",
+      "n_killed": 22,
+      "n_injured": 26,
+      "rank": 46
+    },
+    {
+      "date": 2015,
+      "state": "Wyoming",
+      "n_killed": 21,
+      "n_injured": 15,
+      "rank": 47
+    },
+    {
+      "date": 2015,
+      "state": "North Dakota",
+      "n_killed": 18,
+      "n_injured": 33,
+      "rank": 48
+    },
+    {
+      "date": 2015,
+      "state": "Rhode Island",
+      "n_killed": 14,
+      "n_injured": 87,
+      "rank": 49
+    },
+    {
+      "date": 2015,
+      "state": "Vermont",
+      "n_killed": 13,
+      "n_injured": 20,
+      "rank": 50
+    },
+    {
+      "date": 2015,
+      "state": "Hawaii",
+      "n_killed": 12,
+      "n_injured": 27,
+      "rank": 51
+    }
+  ],
+  [
+    {
+      "date": 2016,
+      "state": "Texas",
+      "n_killed": 1313,
+      "n_injured": 1614,
+      "rank": 1
+    },
+    {
+      "date": 2016,
+      "state": "California",
+      "n_killed": 1265,
+      "n_injured": 1896,
+      "rank": 2
+    },
+    {
+      "date": 2016,
+      "state": "Florida",
+      "n_killed": 1001,
+      "n_injured": 1846,
+      "rank": 3
+    },
+    {
+      "date": 2016,
+      "state": "Illinois",
+      "n_killed": 946,
+      "n_injured": 4137,
+      "rank": 4
+    },
+    {
+      "date": 2016,
+      "state": "Ohio",
+      "n_killed": 628,
+      "n_injured": 1455,
+      "rank": 5
+    },
+    {
+      "date": 2016,
+      "state": "North Carolina",
+      "n_killed": 576,
+      "n_injured": 1205,
+      "rank": 6
+    },
+    {
+      "date": 2016,
+      "state": "Pennsylvania",
+      "n_killed": 556,
+      "n_injured": 1220,
+      "rank": 7
+    },
+    {
+      "date": 2016,
+      "state": "Georgia",
+      "n_killed": 548,
+      "n_injured": 857,
+      "rank": 8
+    },
+    {
+      "date": 2016,
+      "state": "Louisiana",
+      "n_killed": 527,
+      "n_injured": 1103,
+      "rank": 9
+    },
+    {
+      "date": 2016,
+      "state": "Missouri",
+      "n_killed": 515,
+      "n_injured": 842,
+      "rank": 10
+    },
+    {
+      "date": 2016,
+      "state": "Alabama",
+      "n_killed": 488,
+      "n_injured": 761,
+      "rank": 11
+    },
+    {
+      "date": 2016,
+      "state": "Tennessee",
+      "n_killed": 470,
+      "n_injured": 1163,
+      "rank": 12
+    },
+    {
+      "date": 2016,
+      "state": "Maryland",
+      "n_killed": 429,
+      "n_injured": 748,
+      "rank": 13
+    },
+    {
+      "date": 2016,
+      "state": "Indiana",
+      "n_killed": 420,
+      "n_injured": 765,
+      "rank": 14
+    },
+    {
+      "date": 2016,
+      "state": "New York",
+      "n_killed": 416,
+      "n_injured": 1275,
+      "rank": 15
+    },
+    {
+      "date": 2016,
+      "state": "Virginia",
+      "n_killed": 398,
+      "n_injured": 1051,
+      "rank": 16
+    },
+    {
+      "date": 2016,
+      "state": "South Carolina",
+      "n_killed": 387,
+      "n_injured": 726,
+      "rank": 17
+    },
+    {
+      "date": 2016,
+      "state": "Michigan",
+      "n_killed": 385,
+      "n_injured": 700,
+      "rank": 18
+    },
+    {
+      "date": 2016,
+      "state": "New Jersey",
+      "n_killed": 297,
+      "n_injured": 654,
+      "rank": 19
+    },
+    {
+      "date": 2016,
+      "state": "Mississippi",
+      "n_killed": 290,
+      "n_injured": 497,
+      "rank": 20
+    },
+    {
+      "date": 2016,
+      "state": "Kentucky",
+      "n_killed": 288,
+      "n_injured": 499,
+      "rank": 21
+    },
+    {
+      "date": 2016,
+      "state": "Arizona",
+      "n_killed": 277,
+      "n_injured": 294,
+      "rank": 22
+    },
+    {
+      "date": 2016,
+      "state": "Oklahoma",
+      "n_killed": 243,
+      "n_injured": 414,
+      "rank": 23
+    },
+    {
+      "date": 2016,
+      "state": "Wisconsin",
+      "n_killed": 222,
+      "n_injured": 450,
+      "rank": 24
+    },
+    {
+      "date": 2016,
+      "state": "Colorado",
+      "n_killed": 207,
+      "n_injured": 299,
+      "rank": 25
+    },
+    {
+      "date": 2016,
+      "state": "Nevada",
+      "n_killed": 205,
+      "n_injured": 286,
+      "rank": 26
+    },
+    {
+      "date": 2016,
+      "state": "Arkansas",
+      "n_killed": 190,
+      "n_injured": 351,
+      "rank": 27
+    },
+    {
+      "date": 2016,
+      "state": "Washington",
+      "n_killed": 183,
+      "n_injured": 301,
+      "rank": 28
+    },
+    {
+      "date": 2016,
+      "state": "Kansas",
+      "n_killed": 125,
+      "n_injured": 250,
+      "rank": 29
+    },
+    {
+      "date": 2016,
+      "state": "New Mexico",
+      "n_killed": 122,
+      "n_injured": 133,
+      "rank": 30
+    },
+    {
+      "date": 2016,
+      "state": "Massachusetts",
+      "n_killed": 112,
+      "n_injured": 468,
+      "rank": 31
+    },
+    {
+      "date": 2016,
+      "state": "Minnesota",
+      "n_killed": 108,
+      "n_injured": 217,
+      "rank": 32
+    },
+    {
+      "date": 2016,
+      "state": "Washington DC",
+      "n_killed": 106,
+      "n_injured": 339,
+      "rank": 33
+    },
+    {
+      "date": 2016,
+      "state": "West Virginia",
+      "n_killed": 99,
+      "n_injured": 175,
+      "rank": 34
+    },
+    {
+      "date": 2016,
+      "state": "Oregon",
+      "n_killed": 95,
+      "n_injured": 168,
+      "rank": 35
+    },
+    {
+      "date": 2016,
+      "state": "Alaska",
+      "n_killed": 88,
+      "n_injured": 103,
+      "rank": 36
+    },
+    {
+      "date": 2016,
+      "state": "Iowa",
+      "n_killed": 70,
+      "n_injured": 194,
+      "rank": 37
+    },
+    {
+      "date": 2016,
+      "state": "Utah",
+      "n_killed": 70,
+      "n_injured": 86,
+      "rank": 38
+    },
+    {
+      "date": 2016,
+      "state": "Connecticut",
+      "n_killed": 68,
+      "n_injured": 358,
+      "rank": 39
+    },
+    {
+      "date": 2016,
+      "state": "Nebraska",
+      "n_killed": 57,
+      "n_injured": 162,
+      "rank": 40
+    },
+    {
+      "date": 2016,
+      "state": "Delaware",
+      "n_killed": 42,
+      "n_injured": 187,
+      "rank": 41
+    },
+    {
+      "date": 2016,
+      "state": "Montana",
+      "n_killed": 42,
+      "n_injured": 22,
+      "rank": 42
+    },
+    {
+      "date": 2016,
+      "state": "Hawaii",
+      "n_killed": 34,
+      "n_injured": 17,
+      "rank": 43
+    },
+    {
+      "date": 2016,
+      "state": "Idaho",
+      "n_killed": 34,
+      "n_injured": 44,
+      "rank": 44
+    },
+    {
+      "date": 2016,
+      "state": "South Dakota",
+      "n_killed": 23,
+      "n_injured": 32,
+      "rank": 45
+    },
+    {
+      "date": 2016,
+      "state": "New Hampshire",
+      "n_killed": 20,
+      "n_injured": 40,
+      "rank": 46
+    },
+    {
+      "date": 2016,
+      "state": "North Dakota",
+      "n_killed": 18,
+      "n_injured": 33,
+      "rank": 47
+    },
+    {
+      "date": 2016,
+      "state": "Maine",
+      "n_killed": 18,
+      "n_injured": 37,
+      "rank": 48
+    },
+    {
+      "date": 2016,
+      "state": "Wyoming",
+      "n_killed": 18,
+      "n_injured": 12,
+      "rank": 49
+    },
+    {
+      "date": 2016,
+      "state": "Rhode Island",
+      "n_killed": 14,
+      "n_injured": 84,
+      "rank": 50
+    },
+    {
+      "date": 2016,
+      "state": "Vermont",
+      "n_killed": 13,
+      "n_injured": 10,
+      "rank": 51
+    }
+  ],
+  [
+    {
+      "date": 2017,
+      "state": "California",
+      "n_killed": 1423,
+      "n_injured": 1953,
+      "rank": 1
+    },
+    {
+      "date": 2017,
+      "state": "Texas",
+      "n_killed": 1169,
+      "n_injured": 1565,
+      "rank": 2
+    },
+    {
+      "date": 2017,
+      "state": "Illinois",
+      "n_killed": 959,
+      "n_injured": 3629,
+      "rank": 3
+    },
+    {
+      "date": 2017,
+      "state": "Florida",
+      "n_killed": 950,
+      "n_injured": 1801,
+      "rank": 4
+    },
+    {
+      "date": 2017,
+      "state": "Ohio",
+      "n_killed": 700,
+      "n_injured": 1517,
+      "rank": 5
+    },
+    {
+      "date": 2017,
+      "state": "Georgia",
+      "n_killed": 658,
+      "n_injured": 1057,
+      "rank": 6
+    },
+    {
+      "date": 2017,
+      "state": "Pennsylvania",
+      "n_killed": 635,
+      "n_injured": 1188,
+      "rank": 7
+    },
+    {
+      "date": 2017,
+      "state": "Missouri",
+      "n_killed": 609,
+      "n_injured": 921,
+      "rank": 8
+    },
+    {
+      "date": 2017,
+      "state": "North Carolina",
+      "n_killed": 556,
+      "n_injured": 1153,
+      "rank": 9
+    },
+    {
+      "date": 2017,
+      "state": "Louisiana",
+      "n_killed": 549,
+      "n_injured": 1184,
+      "rank": 10
+    },
+    {
+      "date": 2017,
+      "state": "Alabama",
+      "n_killed": 544,
+      "n_injured": 856,
+      "rank": 11
+    },
+    {
+      "date": 2017,
+      "state": "Tennessee",
+      "n_killed": 495,
+      "n_injured": 1198,
+      "rank": 12
+    },
+    {
+      "date": 2017,
+      "state": "Maryland",
+      "n_killed": 480,
+      "n_injured": 855,
+      "rank": 13
+    },
+    {
+      "date": 2017,
+      "state": "Indiana",
+      "n_killed": 407,
+      "n_injured": 737,
+      "rank": 14
+    },
+    {
+      "date": 2017,
+      "state": "South Carolina",
+      "n_killed": 395,
+      "n_injured": 791,
+      "rank": 15
+    },
+    {
+      "date": 2017,
+      "state": "Virginia",
+      "n_killed": 385,
+      "n_injured": 939,
+      "rank": 16
+    },
+    {
+      "date": 2017,
+      "state": "Michigan",
+      "n_killed": 369,
+      "n_injured": 771,
+      "rank": 17
+    },
+    {
+      "date": 2017,
+      "state": "New York",
+      "n_killed": 347,
+      "n_injured": 1092,
+      "rank": 18
+    },
+    {
+      "date": 2017,
+      "state": "Mississippi",
+      "n_killed": 324,
+      "n_injured": 593,
+      "rank": 19
+    },
+    {
+      "date": 2017,
+      "state": "Arizona",
+      "n_killed": 289,
+      "n_injured": 298,
+      "rank": 20
+    },
+    {
+      "date": 2017,
+      "state": "New Jersey",
+      "n_killed": 275,
+      "n_injured": 663,
+      "rank": 21
+    },
+    {
+      "date": 2017,
+      "state": "Kentucky",
+      "n_killed": 273,
+      "n_injured": 518,
+      "rank": 22
+    },
+    {
+      "date": 2017,
+      "state": "Oklahoma",
+      "n_killed": 249,
+      "n_injured": 384,
+      "rank": 23
+    },
+    {
+      "date": 2017,
+      "state": "Washington",
+      "n_killed": 230,
+      "n_injured": 352,
+      "rank": 24
+    },
+    {
+      "date": 2017,
+      "state": "Arkansas",
+      "n_killed": 216,
+      "n_injured": 437,
+      "rank": 25
+    },
+    {
+      "date": 2017,
+      "state": "Wisconsin",
+      "n_killed": 209,
+      "n_injured": 519,
+      "rank": 26
+    },
+    {
+      "date": 2017,
+      "state": "Nevada",
+      "n_killed": 200,
+      "n_injured": 218,
+      "rank": 27
+    },
+    {
+      "date": 2017,
+      "state": "Colorado",
+      "n_killed": 199,
+      "n_injured": 300,
+      "rank": 28
+    },
+    {
+      "date": 2017,
+      "state": "Kansas",
+      "n_killed": 152,
+      "n_injured": 264,
+      "rank": 29
+    },
+    {
+      "date": 2017,
+      "state": "Massachusetts",
+      "n_killed": 128,
+      "n_injured": 456,
+      "rank": 30
+    },
+    {
+      "date": 2017,
+      "state": "New Mexico",
+      "n_killed": 125,
+      "n_injured": 141,
+      "rank": 31
+    },
+    {
+      "date": 2017,
+      "state": "Minnesota",
+      "n_killed": 115,
+      "n_injured": 282,
+      "rank": 32
+    },
+    {
+      "date": 2017,
+      "state": "Washington DC",
+      "n_killed": 100,
+      "n_injured": 340,
+      "rank": 33
+    },
+    {
+      "date": 2017,
+      "state": "Oregon",
+      "n_killed": 99,
+      "n_injured": 170,
+      "rank": 34
+    },
+    {
+      "date": 2017,
+      "state": "Connecticut",
+      "n_killed": 89,
+      "n_injured": 293,
+      "rank": 35
+    },
+    {
+      "date": 2017,
+      "state": "West Virginia",
+      "n_killed": 81,
+      "n_injured": 156,
+      "rank": 36
+    },
+    {
+      "date": 2017,
+      "state": "Iowa",
+      "n_killed": 71,
+      "n_injured": 229,
+      "rank": 37
+    },
+    {
+      "date": 2017,
+      "state": "Utah",
+      "n_killed": 70,
+      "n_injured": 110,
+      "rank": 38
+    },
+    {
+      "date": 2017,
+      "state": "Alaska",
+      "n_killed": 69,
+      "n_injured": 70,
+      "rank": 39
+    },
+    {
+      "date": 2017,
+      "state": "Delaware",
+      "n_killed": 56,
+      "n_injured": 241,
+      "rank": 40
+    },
+    {
+      "date": 2017,
+      "state": "Idaho",
+      "n_killed": 47,
+      "n_injured": 34,
+      "rank": 41
+    },
+    {
+      "date": 2017,
+      "state": "Nebraska",
+      "n_killed": 47,
+      "n_injured": 152,
+      "rank": 42
+    },
+    {
+      "date": 2017,
+      "state": "Montana",
+      "n_killed": 41,
+      "n_injured": 33,
+      "rank": 43
+    },
+    {
+      "date": 2017,
+      "state": "Maine",
+      "n_killed": 33,
+      "n_injured": 36,
+      "rank": 44
+    },
+    {
+      "date": 2017,
+      "state": "New Hampshire",
+      "n_killed": 23,
+      "n_injured": 30,
+      "rank": 45
+    },
+    {
+      "date": 2017,
+      "state": "South Dakota",
+      "n_killed": 19,
+      "n_injured": 21,
+      "rank": 46
+    },
+    {
+      "date": 2017,
+      "state": "North Dakota",
+      "n_killed": 15,
+      "n_injured": 33,
+      "rank": 47
+    },
+    {
+      "date": 2017,
+      "state": "Rhode Island",
+      "n_killed": 11,
+      "n_injured": 79,
+      "rank": 48
+    },
+    {
+      "date": 2017,
+      "state": "Wyoming",
+      "n_killed": 9,
+      "n_injured": 13,
+      "rank": 49
+    },
+    {
+      "date": 2017,
+      "state": "Vermont",
+      "n_killed": 9,
+      "n_injured": 11,
+      "rank": 50
+    },
+    {
+      "date": 2017,
+      "state": "Hawaii",
+      "n_killed": 8,
+      "n_injured": 20,
+      "rank": 51
+    }
+  ]]
