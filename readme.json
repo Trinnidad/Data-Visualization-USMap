@@ -85,280 +85,280 @@
         {
             "name": "Georgia",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 522},
+                {"name": "2015", "size": 595},
+                {"name": "2016", "size": 548},
+                {"name": "2017", "size": 658}
             ]
         },
         {
             "name": "Hawaii",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 8},
+                {"name": "2015", "size": 12},
+                {"name": "2016", "size": 34},
+                {"name": "2017", "size": 8}
             ]
         },
         {
             "name": "Idaho",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 31},
+                {"name": "2015", "size": 40},
+                {"name": "2016", "size": 34},
+                {"name": "2017", "size": 47}
             ]
         },
         {
             "name": "Illinois",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 637},
+                {"name": "2015", "size": 688},
+                {"name": "2016", "size": 946},
+                {"name": "2017", "size": 959}
             ]
         },
         {
             "name": "Indiana",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 330},
+                {"name": "2015", "size": 346},
+                {"name": "2016", "size": 420},
+                {"name": "2017", "size": 407}
             ]
         },
         {
             "name": "Iowa",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 62},
+                {"name": "2015", "size": 60},
+                {"name": "2016", "size": 70},
+                {"name": "2017", "size": 71}
             ]
         },
         {
             "name": "Kansas",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 94},
+                {"name": "2015", "size": 127},
+                {"name": "2016", "size": 125},
+                {"name": "2017", "size": 152}
             ]
         },
         {
             "name": "Kentucky",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 194},
+                {"name": "2015", "size": 230},
+                {"name": "2016", "size": 288},
+                {"name": "2017", "size": 273}
             ]
         },
         {
             "name": "Louisiana",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 465},
+                {"name": "2015", "size": 501},
+                {"name": "2016", "size": 527},
+                {"name": "2017", "size": 549}
             ]
         },
         {
             "name": "Maine",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 22},
+                {"name": "2015", "size": 31},
+                {"name": "2016", "size": 18},
+                {"name": "2017", "size": 33}
             ]
         },
         {
             "name": "Maryland",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 294},
+                {"name": "2015", "size": 404},
+                {"name": "2016", "size": 429},
+                {"name": "2017", "size": 480}
             ]
         },
         {
             "name": "Massachusetts",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 101},
+                {"name": "2015", "size": 109},
+                {"name": "2016", "size": 112},
+                {"name": "2017", "size": 128}
             ]
         },
         {
             "name": "Michigan",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 348},
+                {"name": "2015", "size": 355},
+                {"name": "2016", "size": 385},
+                {"name": "2017", "size": 369}
             ]
         },
         {
             "name": "Minnesota",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 86},
+                {"name": "2015", "size": 123},
+                {"name": "2016", "size": 108},
+                {"name": "2017", "size": 115}
             ]
         },
         {
             "name": "Missisippi",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 231},
+                {"name": "2015", "size": 223},
+                {"name": "2016", "size": 290},
+                {"name": "2017", "size": 324}
             ]
         },
         {
             "name": "Missouri",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 383},
+                {"name": "2015", "size": 492},
+                {"name": "2016", "size": 515},
+                {"name": "2017", "size": 609}
             ]
         },
         {
             "name": "Montana",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 32},
+                {"name": "2015", "size": 34},
+                {"name": "2016", "size": 42},
+                {"name": "2017", "size": 41}
             ]
         },
         {
             "name": "Nebraska",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 51},
+                {"name": "2015", "size": 59},
+                {"name": "2016", "size": 57},
+                {"name": "2017", "size": 47}
             ]
         },
         {
             "name": "Nevada",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 150},
+                {"name": "2015", "size": 183},
+                {"name": "2016", "size": 205},
+                {"name": "2017", "size": 200}
             ]
         },
         {
             "name": "New Hampshire",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 22},
+                {"name": "2015", "size": 22},
+                {"name": "2016", "size": 20},
+                {"name": "2017", "size": 23}
             ]
         },
         {
             "name": "New Jersey",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 278},
+                {"name": "2015", "size": 249},
+                {"name": "2016", "size": 297},
+                {"name": "2017", "size": 275}
             ]
         },
         {
             "name": "New Mexico",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 90},
+                {"name": "2015", "size": 116},
+                {"name": "2016", "size": 122},
+                {"name": "2017", "size": 125}
             ]
         },
         {
             "name": "New York",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 397},
+                {"name": "2015", "size": 463},
+                {"name": "2016", "size": 416},
+                {"name": "2017", "size": 347}
             ]
         },
         {
             "name": "North Carolina",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 487},
+                {"name": "2015", "size": 493},
+                {"name": "2016", "size": 576},
+                {"name": "2017", "size": 556}
             ]
         },
         {
             "name": "North Dakota",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 15},
+                {"name": "2015", "size": 18},
+                {"name": "2016", "size": 18},
+                {"name": "2017", "size": 15}
             ]
         },
         {
             "name": "Ohio",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 494},
+                {"name": "2015", "size": 537},
+                {"name": "2016", "size": 628},
+                {"name": "2017", "size": 700}
             ]
         },
         {
             "name": "Oklahoma",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 171},
+                {"name": "2015", "size": 220},
+                {"name": "2016", "size": 243},
+                {"name": "2017", "size": 249}
             ]
         },
         {
             "name": "Oregon",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 96},
+                {"name": "2015", "size": 125},
+                {"name": "2016", "size": 95},
+                {"name": "2017", "size": 99}
             ]
         },
         {
             "name": "Pennsylvania",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 547},
+                {"name": "2015", "size": 508},
+                {"name": "2016", "size": 556},
+                {"name": "2017", "size": 635}
             ]
         },
         {
             "name": "Rhode Island",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
+                {"name": "2014", "size": 18},
+                {"name": "2015", "size": 14},
+                {"name": "2016", "size": 14},
                 {"name": "2017", "size": 11}
             ]
         },
         {
             "name": "South Carolina",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 344},
+                {"name": "2015", "size": 384},
+                {"name": "2016", "size": 387},
+                {"name": "2017", "size": 395}
             ]
         },
         {
@@ -373,82 +373,82 @@
         {
             "name": "Tennessee",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 16},
+                {"name": "2015", "size": 25},
+                {"name": "2016", "size": 23},
+                {"name": "2017", "size": 119}
             ]
         },
         {
             "name": "Texas",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 1094},
+                {"name": "2015", "size": 1136},
+                {"name": "2016", "size": 1313},
+                {"name": "2017", "size": 1169}
             ]
         },
         {
             "name": "Utah",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 62},
+                {"name": "2015", "size": 66},
+                {"name": "2016", "size": 70},
+                {"name": "2017", "size": 70}
             ]
         },
         {
             "name": "Vermont",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
+                {"name": "2014", "size": 18},
+                {"name": "2015", "size": 13},
                 {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2017", "size": 9}
             ]
         },
         {
             "name": "Virginia",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 284},
+                {"name": "2015", "size": 317},
+                {"name": "2016", "size": 398},
+                {"name": "2017", "size": 385}
             ]
         },
         {
             "name": "Washington",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 181},
+                {"name": "2015", "size": 197},
+                {"name": "2016", "size": 183},
+                {"name": "2017", "size": 230}
             ]
         },
         {
             "name": "West Virginia",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 70},
+                {"name": "2015", "size": 58},
+                {"name": "2016", "size": 99},
+                {"name": "2017", "size": 81}
             ]
         },
         {
             "name": "Wisconsin",
             "children": [
-                {"name": "2014", "size": 10},
-                {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2014", "size": 163},
+                {"name": "2015", "size": 222},
+                {"name": "2016", "size": 222},
+                {"name": "2017", "size": 209}
             ]
         },
         {
             "name": "Wyoming",
             "children": [
-                {"name": "2014", "size": 10},
+                {"name": "2014", "size": 15},
                 {"name": "2015", "size": 21},
-                {"name": "2016", "size": 13},
-                {"name": "2017", "size": 11}
+                {"name": "2016", "size": 18},
+                {"name": "2017", "size": 9}
             ]
         }
     ]
