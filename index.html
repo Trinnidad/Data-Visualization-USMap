@@ -71,7 +71,12 @@
 	</table>
 </div>
 <div>
-	<p>This is our first Visualization that pertains to Gun Violence in the Usa. </p>
+	<p>This is our first Visualization that pertains to Gun Violence in the Usa. We chose to look at the data from a heat map <br>
+		perspective where we clasified each state by rank. In order to do this we had to wrangle the data into the total deaths by <br>
+		guns per state per year. Once we had this information we were able to use d3 in order to display it with a tool tip on each<br>
+		state. We gave the color scheme between white and red to show the intensity and gravity of the situation. Finally, to cycle <br>
+		between years we added buttons on the bottom to give the user to go back and forth to compare changes between the years. 
+	</p>
 </div>
 <div>
 	<table>
@@ -117,7 +122,11 @@
 			<tr>
 				<td>
 					<p>
-						These Graphs above show the same gun Violence data after the relative population size has been taken into account. 
+						These Graphs above show the same gun Violence data after the relative population size has been taken into account. We wanted the <br>
+						users to be able to see the relative death rates per capita in a comparable way. To do this we had to use multiple graphs as the <br>
+						data became to cluttered when it was all shown on one. To show the progression through the years, we have a colored line connecting <br>
+						all of the data points. The scale worked in our favor because while it does re-adjust per graph, the states were close enough in <br>
+						scale that all of the data is still comparable across the individual graphs. 
 					</p>
 				</td>
 			</tr>
@@ -130,7 +139,10 @@
 		<tr>
 			<td>
 				<p>
-					This graph exists to show how while Mass shootings are terrible, they are by far the smallest cause of gun deaths in the USA. 
+					This graph exists to show how while Mass shootings are terrible, they are by far the smallest cause of gun deaths in the USA. When we were<br>
+					looking at the data we found this to be a very important point and wanted a way of showing this at a glance. While there is not a lot of data in <br>
+					this graph we still needed the visualization to be impactful. We chose to go with area circles as it is very clear even from a glance the drastic<br>
+					difference in gun deaths. This came out great as it even looks like comparing the size of the earth to the sun. 
 				</p>
 			</td>
 		</tr>
@@ -138,7 +150,10 @@
 </div>
 <div>
 	<p>
-		This final Visualization is intended to give a clearer idea of how each state ranks when it comes to total gun deaths. 
+		This final Visualization is intended to give a clearer idea of how each state ranks when it comes to total gun deaths. While we liked how the map came out, <br>
+		we found that it was almost impossible to get a real sense of how each state was ranked. There is to much data to do this in one graph so we chose to allow <br>
+		the user to dive down into each state to get further detail. In order to do this, we had to work with d3 and nest each state's data in an object, and use the <br>
+		outer object to average the data contained. This gives a much cleaner look that is easy to navigate while still showing all pertinent data. 
 	</p>
 </div>
 
